@@ -1,0 +1,6 @@
+# Cached SEC EDGAR filings (re-downloaded by src/data/*.py; the EART loan-level XML alone is ~144 MB)
+data/raw/
+
+__pycache__/
+*.pyc
+.ipynb_checkpoints/

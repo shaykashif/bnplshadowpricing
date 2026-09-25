@@ -1,0 +1,23 @@
+field,value
+deal,Exeter Automobile Receivables Trust 2026-4
+form,424B5
+accession,0000929638-26-003269
+cutoff_date,2026-08-09
+original_collateral_balance_usd,1108004343.39
+number_of_contracts,45996
+gross_wac_pct,20.49
+wa_original_term_months,75
+wam_remaining_months,72
+wa_fico,566
+wa_credit_bureau_score,585
+oc_initial_pct,6.95
+oc_target_pct_current_pool,11.65
+oc_floor_pct_cutoff_pool,1.5
+reserve_initial_deposit_usd,11080043.0
+reserve_initial_pct_cutoff_pool,1.0
+reserve_specified_pct_cutoff_pool,1.0
+servicing_fee_pct,3.0
+wa_reported_dti_pct,
+wa_payment_to_income_pct,10.39
+pti_loan_count,42065
+pti_source,"ABS-EE Ex.102 (0000929638-26-003150), preliminary pool"
